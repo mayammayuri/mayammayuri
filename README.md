@@ -8,4 +8,5 @@
 - 📫 How to reach me: @banjaaran_____ and https://www.linkedin.com/in/mayuri-mane-b662a9189/
 - 😄 Pronouns: MAYAM OR MAYURI
 - ⚡ Fun fact: girl,nerd and funny.
+<img src="https://github-readme-stats.vercel.app/api?username=mayammayuri">
 
